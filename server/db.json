@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+      "lat": "-37.3159",
+      "lng": "81.1496"
+      }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Artem Suzaev",
+      "username": "Suzart",
+      "email": "kudirev@mail.ru",
+      "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Moscow",
+      "zipcode": "92998-3874",
+      "geo": {
+      "lat": "-37.3159",
+      "lng": "81.1496"
+      }
+      },
+      "phone": "1-330-216-8021 x56442",
+      "website": "hildegard.org",
+      "company": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Dmitriy Narinyan",
+      "username": "Dnarinyan",
+      "email": "dnarinyan@april.com",
+      "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Yerevan",
+      "zipcode": "92998-3874",
+      "geo": {
+      "lat": "-37.3159",
+      "lng": "81.1496"
+      }
+      },
+      "phone": "1-754-216-8321 x56442",
+      "website": "hildegard.org",
+      "company": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Romaguera-Crona",
+      "username": "RomagueraCrona",
+      "email": "RomCrona@april.com",
+      "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Yerevan",
+      "zipcode": "92998-3874",
+      "geo": {
+      "lat": "-37.3159",
+      "lng": "81.1496"
+      }
+      },
+      "phone": "1-754-216-8321 x56442",
+      "website": "hildegard.org",
+      "company": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "bs": "harness real-time e-markets"
+      }
+    }
+  ]
+}

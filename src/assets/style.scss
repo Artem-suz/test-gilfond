@@ -1,0 +1,18 @@
+@import "./normalize.scss";
+@import "./fonts.scss";
+@import "./variables.scss";
+@import "./animations.scss";
+
+@import "helpers.scss";
+
+@import "./blocks/container.scss";
+
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-size: $fz;
+  line-height: $lh-normal;
+  color: $black;
+  font-family: $ff--main;
+}
